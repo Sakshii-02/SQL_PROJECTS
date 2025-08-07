@@ -6,7 +6,7 @@ Welcome to my **SQL practice project repository**! This space showcases a variet
 
 ## Projects Included
 
-### 1. ☕ Monday Coffee Expansion – [Project_MondayCoffee_Expansion.sql](./Project_MondayCoffee_Expansion.sql)
+### 1. Monday Coffee Expansion – [Project_MondayCoffee_Expansion.sql](./Project_MondayCoffee_Expansion.sql)
 
 **Goal**: Help a fictional coffee chain decide which city to expand in based on customer data, rent, and revenue.
 
